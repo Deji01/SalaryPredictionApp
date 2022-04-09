@@ -1,3 +1,3 @@
 # SalaryPredictionApp
 
-Link -> (https://predict-programmers-salary.herokuapp.com/)
+Link -> https://predict-programmers-salary.herokuapp.com/
